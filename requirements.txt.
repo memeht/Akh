@@ -1,5 +1,4 @@
 flask
-flask-caching
 tweepy
 pandas
 python-telegram-bot
